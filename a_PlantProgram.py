@@ -10,4 +10,4 @@ print(sunflower.get_color())
 print(sunflower.get_petals())
 
 
-print(primrose.get_petals())
+#print(primrose.get_petals())
